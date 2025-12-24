@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'bug'
-projects: ['Dr-Brights-Facility/11']
+projects: ['R2Kip/2']
 ---
 
 **Опишите ошибку**
